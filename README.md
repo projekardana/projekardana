@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer and open-source enthusiast committed to building amazing software and contributing to the tech community.
 
+[![Website](https://img.shields.io/badge/website-portfolio-blue?style=for-the-badge)](https://your-website.example) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mdendiardana) [![Email](https://img.shields.io/badge/email-hello%40you.com-lightgrey?style=for-the-badge)](mailto:mdendiardana.works@gmail.com)
 ---
 
 ## 🚀 About Me
