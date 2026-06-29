@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate developer and open-source enthusi
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 I'm dedicated to crafting elegant solutions to complex problems. My journey in software development has equipped me with diverse skills and a deep appreciation for clean code, collaboration, and continuous learning
 
 - 🔭 **Currently exploring:** Innovative technologies and best practices in software engineering
@@ -74,9 +74,20 @@ I'm dedicated to crafting elegant solutions to complex problems. My journey in s
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=projekardana&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projekardana&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=projekardana&theme=tokyonight&hide_border=true"/>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=projekardana&theme=radical&show_icons=true&count_private=true)
 
@@ -84,15 +95,18 @@ I'm dedicated to crafting elegant solutions to complex problems. My journey in s
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=projekardana&theme=radical&layout=compact)
 
+
+
+
 ---
 
-## 🌟 Featured Projects
+## 🌟 **Featured Projects**
 
 *Check out my repositories below to see some of my work!*
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 **Let's Connect**
 
 I'm always interested in collaborating on exciting projects and connecting with fellow developers. Feel free to reach out!
 
@@ -103,7 +117,7 @@ I'm always interested in collaborating on exciting projects and connecting with 
 
 ---
 
-## 📈 Recent Activity
+## 📈 **Recent Activity**
 
 I'm consistently working on new projects and contributing to the community. Be sure to check back for updates!
 
